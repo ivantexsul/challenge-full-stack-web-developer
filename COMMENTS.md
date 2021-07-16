@@ -1,4 +1,4 @@
-# Título do projeto
+# Obi Tec - Full Stack Web Developer
 
 Code Challenge
 
@@ -9,19 +9,20 @@ Aqui temos os comentários sobre o desafio
 
 ### 🔧 Instalação
 
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
 
-Diga como essa etapa será:
-
-```
-Dar exemplos
-```
-
-E repita:
+Instalação das dependências
 
 ```
-Até finalizar
+npm install
 ```
+
+Agora para rodar a api, basta iniciá-la
+
+```
+npm start
+```
+No console, vai aparecer a mensagem: "sevidor rodando na porta 8081"
+E como foi usado uma cnd para o Vue e Vuetify, basta abrir o index.html no browser
 
 ## 📦 Desenvolvimento
 
