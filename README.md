@@ -21,8 +21,8 @@ Agora para rodar a api, basta iniciá-la
 ```
 npm start
 ```
-No console, vai aparecer a mensagem: "sevidor rodando na porta 8081"
-E como foi usado uma cnd para o Vue e Vuetify, basta abrir o index.html no browser
+- No console, vai aparecer a mensagem: "sevidor rodando na porta 8081"
+- Como foi usado uma CDN para o Vue e Vuetify, basta abrir o index.html no browser
 
 
 ## 🛠️ Construído com
