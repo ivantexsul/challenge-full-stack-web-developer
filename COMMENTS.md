@@ -28,9 +28,9 @@ E como foi usado uma cnd para o Vue e Vuetify, basta abrir o index.html no brows
 ## 🛠️ Construído com
 
 
-Front End: Vue.js
-UI Framework: Vuetifyjs ou Bootstrap
-API: NodeJS com Sequelize
-Banco de Dados:MySQL
+- **Front End:**  Vue.js
+- **UI Framework:** Vuetifyjs ou Bootstrap
+- **API:** NodeJS com Sequelize
+- **Banco de Dados:** MySQL
 
 
