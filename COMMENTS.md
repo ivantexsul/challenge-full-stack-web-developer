@@ -29,7 +29,7 @@ E como foi usado uma cnd para o Vue e Vuetify, basta abrir o index.html no brows
 
 
 - **Front End:**  Vue.js
-- **UI Framework:** Vuetifyjs ou Bootstrap
+- **UI Framework:** Vuetifyjs
 - **API:** NodeJS com Sequelize
 - **Banco de Dados:** MySQL
 
